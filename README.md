@@ -1,5 +1,6 @@
 
 # The Subset Sum Solver
+by Angelica Naguio & Bianca Taguilaso
 
 ## Prerequisites
 
